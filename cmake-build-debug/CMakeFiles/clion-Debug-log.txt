@@ -1,9 +1,0 @@
-D:\Jet_Brain\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Jet_Brain/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\HP\Downloads\untitled1 – done – копія" -B "C:\Users\HP\Downloads\untitled1 – done – копія\cmake-build-debug"
--- Module support is disabled.
--- Version: 9.1.0
--- Build type: Debug
--- CXX_STANDARD: 17
--- Required features: cxx_variadic_templates
--- Configuring done (2.1s)
--- Generating done (0.1s)
--- Build files have been written to: C:/Users/HP/Downloads/untitled1 – done – копія/cmake-build-debug
