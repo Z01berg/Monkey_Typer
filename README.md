@@ -126,10 +126,9 @@ stateDiagram-v2
 ### Build Steps
 1.  **Clone the repository:**
     ```bash
-    git clone Monkey_Typer
-    cd Monkey_Typer
+    git clone https://github.com/Z01berg/Monkey_Typer.git
+    cd Monkey_Typer 
     ```
-    (Replace `Monkey_Typer` and `Monkey_Typer`)
 
 2.  **Create a build directory and configure CMake:**
     ```bash
